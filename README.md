@@ -6,5 +6,5 @@ This repository serves as an excercise consisting in collecting and organizing d
 
 ## What You'll Find
 
-Detailed Bug Descriptions: Comprehensive information on each issue, including steps to reproduce, expected vs. actual results, and screenshots.
+Detailed Bug Descriptions: Comprehensive information on each issue, including preconditions, steps to reproduce, expected vs. actual results, priority, severity and screenshots.
 
