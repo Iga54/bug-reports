@@ -4,6 +4,10 @@
 
 After selecting a specific product, the process of adding it to the cart freezes, and as a result, a loading icon appears within the cart icon and finally the product is not added to cart.
 
+## Preconditions
+
+The user is not logged in.
+
 ## Steps to Reproduce:
 
 1. Run the browser and open https://www.superpharm.pl/.
