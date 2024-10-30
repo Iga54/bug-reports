@@ -4,6 +4,10 @@
 
 After clicking the filter tab “filtruj” on the right side of the page and choosing categories, the user is unable to filter items by concrete categories, such as size, brand, material and quality.
 
+## Preconditions
+
+The user is not logged in.
+
 ## Steps to Reproduce:
 
 1. Run the browser and open https://www2.hm.com/pl_pl/index.html.
