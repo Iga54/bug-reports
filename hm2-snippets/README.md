@@ -30,7 +30,9 @@ All label fields are displayed incorrectly (incomprehensible code snippets), res
 ## Environment:
 
 Browsers: ChromeVersion 131.0.6778.108 
+
 Devices: Desktop
+
 Operating Systems: macOS Sequoia Version 15.1.1
 
 
@@ -46,7 +48,7 @@ The issue directly impacts the user experience and could hinder users from regis
 
 ## Screenshots:
 
-![bug report 1](Screenshot1.png)
+![bug report 1](Screenshot1png.png)
 
 
 
