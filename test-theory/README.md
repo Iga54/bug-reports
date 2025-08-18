@@ -1,6 +1,6 @@
 # BUG REPORTS
 
-## Warning: This bug report was created at the beginning of my journey in learning software testing, so it may contain mistakes that I am learning from.
+### Warning: This bug report was created at the beginning of my journey in learning software testing, so it may contain mistakes that I am learning from.
 
 ## Description
 
