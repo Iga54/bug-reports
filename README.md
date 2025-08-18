@@ -1,6 +1,6 @@
 # Welcome to the Bug Reports Repository. 
 
-## Some of bug reports were created at the beginning of my journey in learning software testing, so they may contain mistakes that I am learning from.
+### Some of bug reports were created at the beginning of my journey in learning software testing, so they may contain mistakes that I am learning from.
 
 ## Purpose
 
