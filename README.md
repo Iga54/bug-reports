@@ -1,5 +1,7 @@
 # Welcome to the Bug Reports Repository. 
 
+### Warning: Some of the bug reports were created at the beginning of my journey in learning software testing, so they may contain mistakes that I am learning from.
+
 ## Purpose
 
 This repository serves as an excercise consisting in collecting and organizing detailed bug reports.
